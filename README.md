@@ -19,3 +19,5 @@ I love building web applications and solving algorithmic problems. I’m current
 **Frameworks:** React.js, Node.js, Express.js  
 **Database:** MongoDB  
 **Tools:** Git, GitHub, VS Code
+
+⭐ **“Code. Learn. Build. Repeat.”**
